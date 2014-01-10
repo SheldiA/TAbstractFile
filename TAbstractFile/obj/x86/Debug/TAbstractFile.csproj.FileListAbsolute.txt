@@ -1,0 +1,4 @@
+D:\Project c#\TAbstractFile\TAbstractFile\bin\Debug\TAbstractFile.exe
+D:\Project c#\TAbstractFile\TAbstractFile\bin\Debug\TAbstractFile.pdb
+D:\Project c#\TAbstractFile\TAbstractFile\obj\x86\Debug\TAbstractFile.exe
+D:\Project c#\TAbstractFile\TAbstractFile\obj\x86\Debug\TAbstractFile.pdb
